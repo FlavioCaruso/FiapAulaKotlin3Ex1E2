@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Roleta da Sorte</string>
+    <string name="escolha">Escolha um número de 0 a 10</string>
+    <string name="nenhum_numero">Número Sorteado é:</string>
+</resources>
