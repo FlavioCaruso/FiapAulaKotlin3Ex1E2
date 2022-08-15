@@ -23,7 +23,10 @@ class MainActivity : AppCompatActivity() {
             //Encontrando o input pelo ID
             val input_numero = findViewById<EditText>(R.id.input_numero)
 
+            //Transforma em string
             val Numero = input_numero.text.toString()
+
+            //Transforma em Inteiro
             val NumeroInt = Numero.toIntOrNull()
 
             //Encontra o texto pelo ID
